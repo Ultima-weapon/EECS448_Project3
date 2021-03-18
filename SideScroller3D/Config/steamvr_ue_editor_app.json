@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.sidescroller3d-15228867.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "D:/UE4/Project_34/SideScroller3D/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "D:/UE4/Project_34/EECS448_Project3/SideScroller3D/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
